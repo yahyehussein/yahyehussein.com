@@ -10,6 +10,14 @@ body {
   background: #0a0a0a;
 }
 
+li {
+  margin-bottom: 1rem;
+}
+
+.text-primary {
+  color: #c4b998;
+}
+
 .container {
   margin: auto;
   margin-top: 150px;
@@ -53,7 +61,6 @@ h4 {
 }
 
 .grid {
-  height: 690px;
   display: grid;
   background-image: -webkit-radial-gradient(
     50% 15%,
@@ -69,6 +76,13 @@ h4 {
 .col {
   background-color: #111318;
   border: 1px solid #31271e;
+}
+
+.skill {
+  border: 1px solid #31271e;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 5px;
 }
 
 .skills .header_1 {
@@ -233,7 +247,7 @@ h4 {
   height: 376px;
   margin-bottom: 10px;
   transition: 0.3s ease;
-  background: url("../../assets/bcu-certificate-1-638.jpg");
+  background: url("/bcu-certificate-1-638.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-size: 115%;
@@ -279,7 +293,7 @@ h4 {
   position: relative;
   height: 176px;
   background-color: #111318;
-  background: url("/assets/Octocat.png");
+  background: url("/Octocat.png");
   transition: 0.3s ease;
 }
 
@@ -328,8 +342,10 @@ h4 {
   width: 65%;
   background-color: #111318;
   border: 1px solid #31271e;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   padding: 20px 20px 20px;
+  margin-bottom: 50px;
 }
 
 .content {
@@ -361,14 +377,6 @@ h4 {
   margin: 0%;
 }
 
-.experience-jobs {
-  width: 65%;
-  background-color: #111318;
-  border: 1px solid #31271e;
-  margin: auto;
-  padding: 20px 20px 20px;
-}
-
 .content {
   display: flex;
 }
@@ -384,7 +392,7 @@ video {
 .header {
   width: 100%;
   height: 500px;
-  background: url("../assets/Group 1.jpg");
+  background: url("/Group 1.jpg");
 }
 
 .wrapper {
@@ -402,7 +410,7 @@ video {
 }
 
 .title {
-  background: url("../assets/t1HeaderDivider.png");
+  background: url("/t1HeaderDivider.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
