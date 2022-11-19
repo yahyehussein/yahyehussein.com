@@ -4,7 +4,7 @@ function Educations() {
       image: "/220px-Birmingham_City_University_logo_with_white_tiger.jpg",
       school: "Birmingham City University",
       degree: "BSc (Hons), Computer Science, 1st class honour",
-      date: "2016 - 2019",
+      date: "Sep 2016 - Jul 2019",
       descriptions: [
         "Awarded 'BCS - Tazmmal Husein Memorial Prize' for getting the highest grades in the first year of computer science.",
         "Led a team of 4 classmates developers to direct the end-to-end connect4 application lifecycle process with a focus on coding and achieved delivery in an effective and quality bound manner. Deployed the web server to handle multiple concurrent users.",
@@ -16,14 +16,14 @@ function Educations() {
       school: "South &amp; City College Birmingham",
       degree:
         "Level 3 BTEC Extended National Diploma, Information Technolgy, D*D*D*",
-      date: "2014 - 2013",
+      date: "Sep 2014 - May 2016",
       descriptions: [],
     },
     {
       image: "/josephchamberlaincollege.jpg",
       school: "Joseph Chamberlain Sixth Form College",
       degree: "GCSE, 4 A-C grades",
-      date: "2012 - 2013",
+      date: "Sep 2012 - Jun 2013",
       descriptions: [],
     },
   ];

@@ -3,8 +3,8 @@ function Experiences() {
     {
       logo: "/crowdproperty.png",
       title: "Full Stack PHP Developer",
-      company: "Justclip (justclip.tv)",
-      date: "November 2021 - Present",
+      company: "CrowdProperty",
+      date: "Nov 2021 - Present",
       location: "Birmingham, United Kingdom",
       descriptions: [
         "I am solely responsible for setting up and maintaining any Vue.js related projects, as I am the only one in the company who knew how to use Vue.js. Some of the projects that I worked on included a new register journey for CrowdProperty Australia and CP Capital.",
@@ -16,8 +16,8 @@ function Experiences() {
     {
       logo: "/justclip.png",
       title: "Founder",
-      company: "CrowdProperty",
-      date: "February 2020 - August 2021",
+      company: "Justclip (justclip.tv)",
+      date: "Sep 2020 - Aug 2021",
       location: "Birmingham, United Kingdom",
       descriptions: [
         "Justclip is video sharing site that integrates Twitch clips, where viewers can share their favourite streamer moments, vote, and comment in clips organized around their interests. My job involves code, test, deploy and run..",
@@ -28,7 +28,7 @@ function Experiences() {
       logo: "/220px-Birmingham_City_University_logo_with_white_tiger.jpg",
       title: "Demonstrator in Computing",
       company: "Birmingham City University",
-      date: "Sep 2017 - Jan 2018 | 5 mos",
+      date: "Sep 2017 - Jan 2018",
       location: "Birmingham, United Kingdom",
       descriptions: [
         "Helping out 1st year students with python programming.",
