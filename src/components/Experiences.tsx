@@ -4,7 +4,7 @@ function Experiences() {
       logo: "/crowdproperty.png",
       title: "Full Stack PHP Developer",
       company: "CrowdProperty",
-      date: "Nov 2021 - Present",
+      date: "Nov 2021 - Jan 2023",
       location: "Birmingham, United Kingdom",
       descriptions: [
         "I am solely responsible for setting up and maintaining any Vue.js related projects, as I am the only one in the company who knew how to use Vue.js. Some of the projects that I worked on included a new register journey for CrowdProperty Australia and CP Capital.",
