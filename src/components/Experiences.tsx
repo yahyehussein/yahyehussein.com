@@ -1,8 +1,18 @@
 function Experiences() {
   const experiences = [
     {
+      logo: "/FLAGSSoftware.jpg",
+      title: "Software Engineer",
+      company: "FLAGS Software",
+      date: "Jan 2023 - Present",
+      location: "Solihull, United Kingdom",
+      descriptions: [
+        "As a front-end developer at FLAGS Software, I successfully built web and mobile reporting using React, delivering high-quality digital software solutions to improve operational efficiency. I enhanced workflow processes, product quality control, end-user satisfaction, and material use, eliminating issues of quality, rework, and recall with smart systems, real-time reporting, and straight-to-source notifications. My work contributed to helping customers produce incredible products with FLAGS Software's solutions. Additionally, I utilized my skills in Next.js, Azure DevOps, Redux.js, styled-components, Material-UI, Jest, HTML5, CSS, JavaScript, and TypeScript to accomplish my tasks.",
+      ],
+    },
+    {
       logo: "/crowdproperty.png",
-      title: "Full Stack PHP Developer",
+      title: "Software Engineer",
       company: "CrowdProperty",
       date: "Nov 2021 - Jan 2023",
       location: "Birmingham, United Kingdom",
