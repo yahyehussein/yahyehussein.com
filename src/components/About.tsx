@@ -29,7 +29,7 @@ function About() {
       <div className="rdg">
         <div className="col role">
           <p className="title">HOBBY</p>
-          <p className="hobby">CODING | GAMING | ANIME</p>
+          <p className="hobby">CODING | GAMING</p>
         </div>
         <a href="bcu-certificate-1-638.jpg" target="_blank">
           <div className="col degree"></div>
