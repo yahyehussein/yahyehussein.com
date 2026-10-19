@@ -1,1 +1,11 @@
-![image](https://user-images.githubusercontent.com/21040418/201470644-24c2f73a-b0b3-45fa-9ada-6e9386104065.png)
+# yahyehussein.com
+
+Personal site of Yahye Hussein, founder of Popbrik. Plain HTML, CSS and a little JavaScript, built with Vite.
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+`npm run build` writes the site to `dist/`, which Netlify publishes. The built `dist/` is committed.
